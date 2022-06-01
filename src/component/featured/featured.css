@@ -1,0 +1,39 @@
+.featured{
+    box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+    -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);    
+    margin-right: 2%;
+}
+.top {
+    color: gray;
+    margin-top: 5%;
+
+}
+
+.titlefeature {
+    font-size: 20px;
+    font-weight: 500;
+  }
+  .bottom{
+      padding-bottom: 5%;
+  }
+  .titleSale,.amount{
+      font-size: 30px;
+      font-weight: 400;
+  }
+  .desc{
+      font-size: 20px;
+      font-weight: 900;
+      color: gray;
+  }
+  .positive{
+    color: green;
+  }
+  .negative{
+    color: red;
+  }
+  .itemTitle{
+    font-weight: 900
+  }
+  .summary{
+      margin-bottom: 5%;
+  }
